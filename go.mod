@@ -1,3 +1,3 @@
-module github.com/Heavenlode/shuttle
+module github.com/Heavenlode/GameShuttle
 
 go 1.21.5
